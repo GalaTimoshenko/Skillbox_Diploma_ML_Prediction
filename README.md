@@ -110,7 +110,8 @@ big_cities = ['Moscow', 'Saint Petersburg', 'Novosibirsk', 'Yekaterinburg',
 
 ## Сгенерим доп признаки sqr, sqrt, log на числовые колонки
 
-## Доп признаки по OHE кодированию по колонкам 'device_category', 'car_brand', 'car_model', 'visit_time_night', 'geo_country_is_russia', geo_city_is_big', 'geo_city_distance_from_moscow_category', 'device_browser'
+## Доп признаки по OHE кодированию
+по колонкам 'device_category', 'car_brand', 'car_model', 'visit_time_night', 'geo_country_is_russia', geo_city_is_big', 'geo_city_distance_from_moscow_category', 'device_browser'
 
 ## Создадим train_test_split
 
